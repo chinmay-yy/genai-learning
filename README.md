@@ -10,6 +10,13 @@
 - ✅ Streamlit Chatbot
 - ✅ Embeddings
 
+## Week 3: Runnables
+
+- ✅ Sequential Runnables
+- ✅ Parallel Runnables
+- ✅ Passthrough Runnables
+- ✅ Runnable chains using prompts, models, and output parsers
+
 ## Next
 
 - Prompt Templates
