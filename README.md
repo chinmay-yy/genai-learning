@@ -10,6 +10,13 @@
 - ✅ Streamlit Chatbot
 - ✅ Embeddings
 
+## Week 2
+
+- ✅ Prompt Templates
+- ✅ Output Parsers
+- ✅ Vector Stores
+- ✅ RAG
+
 ## Week 3: Runnables
 
 - ✅ Sequential Runnables
@@ -19,10 +26,6 @@
 
 ## Next
 
-- Prompt Templates
-- Output Parsers
-- Vector Stores
-- RAG
 - Agents
 - LangGraph
 - MCP
